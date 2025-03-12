@@ -2,7 +2,7 @@
 
 # 👋 Hello, my name is *jstnroxx*.
 ***
-<img src="https://wiki.teamfortress.com/w/images/thumb/d/d8/Engineer.png/250px-Engineer.png" alt="TF2 Engineer">
+<img src="https://static.wikia.nocookie.net/teamfortress/images/9/96/300px-Engineer.png/revision/latest/scale-to-width-down/284?cb=20120202021659" alt="TF2 Engineer">
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is literally me.</h3>
 
 ***
