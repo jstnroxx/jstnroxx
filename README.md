@@ -8,9 +8,12 @@
 ***
 <details open>
   <summary><h2>🤔 GitHub statistics of mine:</h2></summary>
-  <img width=395px src="https://github-readme-stats.vercel.app/api?username=jstnroxx&theme=onedark"> <br>
-  <img width=395px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstnroxx&theme=onedark&layout=compact"/>
+  <img width=395px src="https://github-readme-stats.vercel.app/api?username=jstnroxx&theme=onedark" alt="GitHub Contributions"/> <br>
+  <img width=395px src="https://github-readme-stats.vercel.app/api/top-langs/?username=jstnroxx&theme=onedark&layout=compact" alt="GitHub Languages"/>
 </details>
+<details open>
+    <summary><h2>🛣️ A roadmap.sh summary:</h2></summary>
+    <img src="https://roadmap.sh/card/wide/6749e24150394310757a6ee4?variant=dark" alt="roadmap.sh Statistics"/>
 <br>
 
 ***
