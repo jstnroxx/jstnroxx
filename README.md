@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff9633" alt="Header" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c23927" alt="Header" width=100%>
 
 <h1 align="center">
   👋 Hello, my name is <i>jstnroxx</i>.
@@ -15,5 +15,5 @@
 
 <hr/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=ff9633&reversal=false&section=footer" alt="Footer" width=100%>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=c23927&reversal=false&section=footer" alt="Footer" width=100%>
 
