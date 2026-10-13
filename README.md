@@ -2,9 +2,8 @@
 
 <h1 align="center">
   👋 Hello, my name is <i>jstnroxx</i>.
+  <p></p>
 </h1> 
-
-<hr/>
 
 <p align="center">
   <img src="https://static.wikia.nocookie.net/teamfortress/images/9/96/300px-Engineer.png/revision/latest/scale-to-width-down/284?cb=20120202021659" alt="TF2 Engineer">
